@@ -11,7 +11,7 @@ IBM Cloud Microservice Starter for Spring
 * [Project contents](#project-contents)
 * [Run](#run)
 
-### Summary
+### Summary.
 
 The IBM Cloud Microservice Starter in Java provides a starting point for creating Java microservice applications running on [Spring](https://spring.io/).
 
